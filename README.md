@@ -37,7 +37,9 @@ This repository contains the tools I like to use, my config files, my preference
 
 Only a click on the **Install** link below is needed to kaunch the installation. Please make sure you have updated the link with the corresponding path on your fork.
 
-[Install](https://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/TechWatching/dotfiles/features/initialization/boxstarter.ps1)
+The link format is https://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/GH_USERNAME/GH_REPONAME/BRANCH_NAME/boxstarter.ps1, where GH_USERNAME is your GitHub username, GH_REPONAME is the name of your cloned repo, and BRANCH_NAME is the name of the branch you want to boxstarter to pull from
+
+[Install](https://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/erikblessman/dev-setup/main/boxstarter.ps1)
 
 ## Disclaimer
 
